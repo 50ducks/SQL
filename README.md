@@ -1,4 +1,4 @@
-1.2 - https://drive.google.com/file/d/1oPsU1-g7zK7jbiaoiVnCRyS_qgOlnb9I/view?usp=sharing
+1.2 (обороты и остатки) - https://drive.google.com/file/d/1oPsU1-g7zK7jbiaoiVnCRyS_qgOlnb9I/view?usp=sharing
 
 Убрал sleep из процедур, чтобы не ждать 30 секунд, пока они отработают. 
 
@@ -6,3 +6,6 @@
 Постепенную запись можно сделать при помощи скриптов, например, на пайтоне, но не в постгресе с QueryTool, как я понял. Команды для контроля транзакций почему-то не работают, но я в них и не лез пока что.
 
 Также в fill_account_balance_f нужно заменить TEMP TABLE на CTE (и про них я тоже просто забыл).
+
+
+1.3 (форма 101) - https://drive.google.com/file/d/1fH2ov4Ev408l_yJdMEaNbGqxqnHKlXU7/view?usp=sharing
