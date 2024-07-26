@@ -1,4 +1,4 @@
-1.1 и 1.2 - https://drive.google.com/file/d/1oPsU1-g7zK7jbiaoiVnCRyS_qgOlnb9I/view?usp=sharing
+1.2 - https://drive.google.com/file/d/1oPsU1-g7zK7jbiaoiVnCRyS_qgOlnb9I/view?usp=sharing
 
 Убрал sleep из процедур, чтобы не ждать 30 секунд, пока они отработают. 
 
